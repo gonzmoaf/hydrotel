@@ -8,7 +8,7 @@
     <img src="Docs/logo/logo_hydrotel_transparent.png" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">HYDROTEL</h3>
+<h1 align="center">HYDROTEL</h1>
   <p align="center">
     Physically-based distributed hydrological model.
     <br />
@@ -25,38 +25,39 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About HYDROTEL
+### About HYDROTEL
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <p align='justify'>
-HYDROTEL</sup>[1]</sup> is a physically-based distributed hydrological model developed at the Centre Eau Terre Environnement of the Institute national de la recherche scientifique in Quebec (Canada). The model was programmed in C++ language using a modular approach allowing easy user-selection of different algorithms across different hydrological processes, such as:
-<br />
-<br />
-- Meteorological data interpolation
-- Snowpack evolution
-- Soil temperature
-- Potential evapotranspiration
-- Vertical water budget
-- Overland flow routing (geomorphological unit hydrograph)
-- Channel routing
-- Wetland hydrology
-<br />
-<br />
+HYDROTEL<sup>[1]</sup> is a physically-based distributed hydrological model developed at the Centre Eau Terre Environnement of the Institute national de la recherche scientifique in Quebec (Canada). The model was programmed in C++ language using a modular approach allowing easy user-selection of different algorithms across different hydrological processes, such as:
+</p>
+
+* Meteorological data interpolation
+* Snowpack evolution
+* Soil temperature
+* Potential evapotranspiration
+* Vertical water budget
+* Overland flow routing (geomorphological unit hydrograph)
+* Channel routing
+* Wetland hydrology
+
+<p align='justify'>
 This repository includes the require files to run HYDROTEL via a console. This approach requires compilation of C++ files according to the user operating system to generate an executable file (hydrotel.exe).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- REFERENCES -->
-## References
+### References
 
 1. J.-P. Fortin, R. Turcotte, S. Massicotte, R. Moussa, J. Fitzback, and J.-P. Villeneuve, "Distributed watershed model compatible with remote sensing and GIS data. Part I: Description of model", Journal of hydrologic engineering, vol. 6, no. 2, pp. 91-99, 2001, doi: 10.1061/(ASCE)1084-0699(2001)6:2(91)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+### Acknowledgments
 
+<p align='justify'>
 The logo was designed by Andrés Gonzalez (@gonzmoaf), with inputs from the Research group in hydrological modeling and integrated watershed management at the Centre Eau Terre Environnement - Institut national de la recherche scientifique (INRS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
