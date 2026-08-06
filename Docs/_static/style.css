@@ -1,0 +1,37 @@
+@import url("styles/furo.css");
+
+/* extend furo for inline ".only-dark" elements */
+body .only-dark-inline,
+body .only-light-inline {
+  display: none !important;
+}
+
+@media not print {
+  body[data-theme="dark"] .only-dark-inline,
+  body[data-theme="light"] .only-light-inline {
+    display: inline !important;
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) .only-dark-inline{
+      display: inline !important;
+    }
+  }
+  @media (prefers-color-scheme: light) {
+    body:not([data-theme="dark"]) .only-light-inline{
+      display: inline !important;
+    }
+  }
+}
+
+@media print {
+  .only-light-inline{
+    display: inline !important;
+  }
+  .only-dark-inline{
+    display: none !important;
+  }
+}
+
+button.copybtn.copybtn svg {
+  stroke: var(--color-copybutton);
+}
