@@ -22,6 +22,7 @@ extensions = [
     "sphinx_codeautolink",
     "sphinx_copybutton",
     "nbsphinx",
+    "sphinx_design",
 ]
 
 intersphinx_mapping = {
