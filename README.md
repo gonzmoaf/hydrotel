@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gonzmoaf/hydrotel">
-    <img src="Docs/logo/logo_hydrotel_transparent.png" alt="Logo" width="150" height="150">
+    <img src="Docs/logo/hydrotel_logo_transparent.png" alt="Logo" width="150" height="150">
   </a>
 
 <h1 align="center">HYDROTEL</h1>
