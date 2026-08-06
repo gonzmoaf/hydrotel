@@ -30,7 +30,7 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <p align='justify'>
-HYDROTEL<sup>[1]</sup> is a physically-based distributed hydrological model developed at the _Centre Eau Terre Environnement_ of the _Institute national de la recherche scientifique_ in Quebec (Canada). The model was programmed in C++ language using a modular approach allowing easy user-selection of different algorithms across different hydrological processes, such as:
+HYDROTEL<sup>[1]</sup> is a physically-based distributed hydrological model developed at the Centre Eau Terre Environnement of the Institute national de la recherche scientifique in Quebec (Canada). The model was programmed in C++ language using a modular approach allowing easy user-selection of different algorithms across different hydrological processes, such as:
 </p>
 
 * Meteorological data interpolation
