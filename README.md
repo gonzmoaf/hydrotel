@@ -23,6 +23,8 @@
   </p>
 </div>
 
+### Built With 
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 <!-- ABOUT THE PROJECT -->
 ### About HYDROTEL
@@ -47,6 +49,7 @@ This repository contains the files required to run HYDROTEL from the command lin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- REFERENCES -->
 ### References
 
@@ -61,3 +64,6 @@ This repository contains the files required to run HYDROTEL from the command lin
 The logo was designed by Andrés Gonzalez (@gonzmoaf), with inputs from the Research group in hydrological modeling and integrated watershed management at the Centre Eau Terre Environnement - Institut national de la recherche scientifique (INRS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
