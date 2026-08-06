@@ -30,7 +30,7 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <p align='justify'>
-HYDROTEL<sup>[1]</sup> is a physically-based distributed hydrological model developed at the Centre Eau Terre Environnement of the Institute national de la recherche scientifique in Quebec (Canada). The model was programmed in C++ language using a modular approach allowing easy user-selection of different algorithms across different hydrological processes, such as:
+HYDROTEL<sup>[1]</sup> is a physically-based distributed hydrological model developed at the *Centre Eau Terre Environnement* of the *Institute national de la recherche scientifique* in Quebec (Canada). The model was programmed in C++ language using a modular approach allowing easy user-selection of different algorithms across different hydrological processes, such as:
 </p>
 
 * Meteorological data interpolation
@@ -43,7 +43,7 @@ HYDROTEL<sup>[1]</sup> is a physically-based distributed hydrological model deve
 * Wetland hydrology
 
 <p align='justify'>
-This repository includes the require files to run HYDROTEL via a console. This approach requires compilation of C++ files according to the user operating system to generate an executable file (hydrotel.exe).
+This repository contains the files required to run HYDROTEL from the command line. This approach requires compiling the C++ source files for the target operating system to generate the appropriate executable (e.g., hydrotel.exe on Windows).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
