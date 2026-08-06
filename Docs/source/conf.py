@@ -46,11 +46,11 @@ author = "Institut national de la recherche scientifique"
 templates_path = ['_templates']
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+# pygments_style = 'sphinx'
 
 # -- Options for HTML output
 
-html_theme = 'furo'
+html_theme = 'sphinx_book_theme'
 
 html_theme_options = {
     "light_logo": "hydrotel_logo_light_rtd.png",
@@ -62,18 +62,18 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 if not os.path.exists("_static"):
     os.makedirs("_static")
-html_static_path = ["_static", "logos"]
+html_static_path = ["_static", "logo"]
 
-html_sidebars = {
-    "**": [
-        "sidebar/scroll-start.html",
-        "sidebar/brand.html",
-        "sidebar/search.html",
-        "sidebar/navigation.html",
-        "sidebar/ethical-ads.html",
-        "sidebar/scroll-end.html",
-    ]
-}
+# html_sidebars = {
+#     "**": [
+#         "sidebar/scroll-start.html",
+#         "sidebar/brand.html",
+#         "sidebar/search.html",
+#         "sidebar/navigation.html",
+#         "sidebar/ethical-ads.html",
+#         "sidebar/scroll-end.html",
+#     ]
+# }
 
 def setup(app):
     app.add_css_file("style.css")
