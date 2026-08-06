@@ -4,3 +4,4 @@ sphinx-copybutton >=0.5.2
 nbsphinx >=0.9.8
 sphinx-intl
 sphinx_design
+sphinx-book-theme
