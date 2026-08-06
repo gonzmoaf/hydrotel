@@ -1,13 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to HYDROTEL's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**HYDROTEL** is a physically-based distributed hydrological model 
+developed at the Centre Eau Terre Environnement of the Institute national 
+de la recherche scientifique in Quebec (Canada).
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. Check out the :doc:`usage` section for further information, including
+.. how to :ref:`installation` the project.
 
 .. note::
 
@@ -16,9 +15,4 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-
-   usage
-   api
-
-Lumache hosts its documentation on Read the Docs.
+HYDROTEL hosts its documentation on Read the Docs.
