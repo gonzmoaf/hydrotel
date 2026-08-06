@@ -61,7 +61,7 @@ This repository contains the files required to run HYDROTEL from the command lin
 ### Acknowledgments
 
 <p align='justify'>
-The logo was designed by Andrés Gonzalez (@gonzmoaf), with inputs from the Research group in hydrological modeling and integrated watershed management at the Centre Eau Terre Environnement - Institut national de la recherche scientifique (INRS)
+The logo was designed by Andrés Gonzalez (@gonzmoaf), with inputs from the Research group in hydrological modeling and integrated watershed management of Professor Alain N. Rousseau at the Centre Eau Terre Environnement - Institut national de la recherche scientifique (INRS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
