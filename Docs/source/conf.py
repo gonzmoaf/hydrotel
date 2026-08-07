@@ -57,23 +57,6 @@ html_theme_options = {
     "dark_logo": "hydrotel_logo_transparent_rtd.png",
 }
 
-# Add any paths that contain custom static files (such as style sheets) here,
-# relative to this directory. They are copied after the builtin static files,
-# so a file named "default.css" will overwrite the builtin "default.css".
-if not os.path.exists("_static"):
-    os.makedirs("_static")
-html_static_path = ["_static", "logo"]
-
-html_sidebars = {
-    "**": [
-        "sidebar/scroll-start.html",
-        "sidebar/brand.html",
-        "sidebar/search.html",
-        "sidebar/navigation.html",
-        "sidebar/ethical-ads.html",
-        "sidebar/scroll-end.html",
-    ]
-}
 
 def setup(app):
     app.add_css_file("style.css")
