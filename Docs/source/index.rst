@@ -21,13 +21,13 @@ appropriate executable (e.g., hydrotel.exe on Windows).
 
 Contents
 --------
-..toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Usage
-   Installation
-   Configuration
+   Get started
+   Project configuration
+   Usage   
    notebooks/index.rst
    Credits
    Changelog
