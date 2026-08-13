@@ -4,11 +4,13 @@ import os
 
 # -- Project information
 
-project = 'HYDROTEL'
-copyright = '2001, INRS'
-author = 'Fortin, J.-P. et al.'
+# General information about the project.
+project = "HYDROTEL"
+copyright = "2026, INRS"
+author = "Institut national de la recherche scientifique"
 
 version = '4.3.7'
+release = '4.3.7'
 
 # -- General configuration
 
@@ -30,11 +32,6 @@ source_suffix = {".rst": "restructuredtext"}
 
 # The master toctree document.
 master_doc = "index"
-
-# General information about the project.
-project = "hydrotel"
-copyright = "2026, INRS"
-author = "Institut national de la recherche scientifique"
 
 # templates_path = ['_templates']
 
