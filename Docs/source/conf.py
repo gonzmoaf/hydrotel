@@ -47,6 +47,10 @@ html_theme = os.environ.get("SPHINX_THEME", "sphinx_book_theme")
 html_logo = '../logo/hydrotel_logo_transparent_rtd.png'
 
 html_theme_options = {
+    "logo":{
+        "image_light": "../logo/hydrotel_logo_light_rtd.png",
+        "image_dark": "../logo/hydrotel_logo_transparent_rtd.png",
+    },
     "repository_url": "https://github.com/gonzmoaf/hydrotel.git",
     "use_repository_button": True,
     "use_edit_page_button": False,
