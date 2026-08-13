@@ -13,16 +13,7 @@ version = '4.3.7'
 # -- General configuration
 
 extensions = [
-    # "sphinx.ext.autodoc",
-    # "sphinx.ext.autosectionlabel",
-    # "sphinx.ext.extlinks",
-    # "sphinx.ext.intersphinx",
-    # "sphinx.ext.viewcode",
-    # "sphinx.ext.todo",
-    # "sphinx_codeautolink",
-    # "sphinx_copybutton",
-    # "nbsphinx",
-    # "myst_parser",
+    "myst_parser",
     "sphinx_design",
     "sphinx.ext.extlinks",
 ]
