@@ -25,13 +25,11 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   Get started
-   Project configuration
-   Usage   
+   get-started
+   project-configuration
+   usage   
    notebooks/index.rst
-   Credits
-   Changelog
-   References
+   credits
 
 References
 ----------
