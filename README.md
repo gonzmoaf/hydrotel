@@ -12,7 +12,7 @@
   <p align="center">
     Physically-based distributed hydrological model.
     <br />
-    <a href="https://github.com/gonzmoaf/hydrotel"><strong>Explore the docs »</strong></a>
+    <a href="https://hydrotel.readthedocs.io/en/latest/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -25,6 +25,7 @@
 
 ### Built With 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+
 
 <!-- ABOUT THE PROJECT -->
 ### About HYDROTEL
