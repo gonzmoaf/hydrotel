@@ -44,12 +44,14 @@ author = "Institut national de la recherche scientifique"
 # -- Options for HTML output
 
 html_theme = os.environ.get("SPHINX_THEME", "sphinx_book_theme")
+html_static_path = ["_static", "logo"]
 html_logo = 'logo/hydrotel_logo_transparent_rtd.png'
+
 html_theme_options = {
     "repository_url": "https://github.com/gonzmoaf/hydrotel.git",
     "use_repository_button": True,
-    "use_edit_page_button": True,
-    "use_issues_button": True,
+    "use_edit_page_button": False,
+    "use_issues_button": False,
     "repository_branch": "asus",
     "path_to_docs": "Docs",
     "homepage_in_toc": False,
