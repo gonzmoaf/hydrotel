@@ -60,6 +60,5 @@ html_theme_options = {
     "use_issues_button": False,
     "repository_branch": "asus",
     "path_to_docs": "Docs",
-    "homepage_in_toc": False,
 }
 

@@ -1,3 +1,4 @@
 # Changelog
 
-{include} ../../version.txt
+```{literalinclude} ../../version.txt
+```

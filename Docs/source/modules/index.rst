@@ -3,7 +3,7 @@ Model description
 
 .. toctree::
    :maxdepth: 1
-
+   
    spatial-discretization
    meteo-interpolation
    snowpack-evolution
