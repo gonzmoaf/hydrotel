@@ -18,6 +18,12 @@ extensions = [
     "myst_parser",
     "sphinx_design",
     "sphinx.ext.extlinks",
+    "sphinx.ext.mathjax", # Ensure render equations properly in HTML
+]
+
+myst_enable_extensions = [
+    "dollarmath", # Parses $ and $$ delimiters
+    "amsmath", # Parses direct LaTeX environments
 ]
 
 # intersphinx_mapping = {

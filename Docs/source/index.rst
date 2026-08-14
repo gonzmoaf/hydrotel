@@ -1,7 +1,7 @@
 Welcome to HYDROTEL's documentation!
 ===================================
 
-**HYDROTEL** is a physically-based distributed hydrological model 
+**HYDROTEL** is a physically-based semi-distributed hydrological model 
 developed at the Centre Eau Terre Environnement of the Institute national 
 de la recherche scientifique in Quebec (Canada). The model was programmed
 in C++ language using a modular approach allowing easy user-selection of
@@ -26,10 +26,10 @@ Contents
    :caption: Contents:
 
    get-started
+   modules/index.rst
    project-configuration
-   usage   
-   notebooks/index.rst
-   credits
+   usage
+   research-applications
 
 References
 ----------
