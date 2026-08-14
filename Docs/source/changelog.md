@@ -1,0 +1,3 @@
+# Changelog
+
+{include} ../version.txt

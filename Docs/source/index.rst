@@ -23,13 +23,14 @@ Contents
 --------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    get-started
    modules/index
    project-configuration
    usage
    research-applications
+   changelog
+
 
 References
 ----------
