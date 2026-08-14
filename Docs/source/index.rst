@@ -1,5 +1,5 @@
 Welcome to HYDROTEL's documentation!
-===================================
+=====================================
 
 **HYDROTEL** is a physically-based semi-distributed hydrological model 
 developed at the Centre Eau Terre Environnement of the Institute national 
