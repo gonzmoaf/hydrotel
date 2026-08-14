@@ -26,7 +26,7 @@ Contents
    :caption: Contents:
 
    get-started
-   modules/index.rst
+   modules/index
    project-configuration
    usage
    research-applications
