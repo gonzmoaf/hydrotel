@@ -1,0 +1,9 @@
+2
+9 5
+Profondeur racinaire (m)
+Jour  no_data eau sol_nu foret_feuillus agricole_paturage foret_coniferes impermeable tourbiere milieu_humide
+1 0 0 0 1 1 1 0 1 1
+160 0 0 0 1 1 1 0 1 1
+190 0 0 0 1 1 1 0 1 1
+260 0 0 0 1 1 1 0 1 1
+365 0 0 0 1 1 1 0 1 1

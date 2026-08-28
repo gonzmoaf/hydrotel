@@ -1,0 +1,8 @@
+Type;Inclu dans la simulation (0 ou 1);Coefficient Reduction (0 ou 1)
+AGRICOLE;1;0
+COMMERCIAL;1;0
+EFFLUENT;1;0
+INDUSTRIEL;1;0
+INSTITUT;1;0
+MUNICIPAL;1;0
+PRIVE;1;0
